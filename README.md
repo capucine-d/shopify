@@ -1,6 +1,10 @@
 # Shopify - Fall 2022 Data Science Internship challenge
 
-My answers to the challenge can be found in the file fall
+My answers to the challenge can be found in the file fall-2022-internship-challenge-capucine-dehaut.ipynb
+
+
+
+
 
 ## Instructions
 Please complete the following questions, and provide your thought process/work. You can attach your work in a text file, link, etc. on the application page. Please ensure answers are easily visible for reviewers!
